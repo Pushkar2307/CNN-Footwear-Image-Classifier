@@ -13,5 +13,4 @@ UT Zappos50K (UT-Zap50K) is a large shoe dataset consisting of 50,025 catalog im
 * Python3
 * Keras
 * Numpy
-* Pandas
 * Opencv
